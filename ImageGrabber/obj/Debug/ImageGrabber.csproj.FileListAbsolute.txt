@@ -1,0 +1,8 @@
+C:\VSProject\Test\ImageGrabber\ImageGrabber\bin\Debug\ImageGrabber.exe
+C:\VSProject\Test\ImageGrabber\ImageGrabber\bin\Debug\ImageGrabber.pdb
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.csprojResolveAssemblyReference.cache
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.Properties.Resources.resources
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.csproj.GenerateResource.Cache
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.exe
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.pdb
+C:\VSProject\Test\ImageGrabber\ImageGrabber\obj\Debug\ImageGrabber.Main.resources
